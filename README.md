@@ -1,2 +1,2 @@
 # C++ Projects
-A collection of my works.
+A collection of my C++ projects.
